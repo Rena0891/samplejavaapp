@@ -3,3 +3,4 @@
 
 [prod]
 18.217.126.32 ansible_ssh_user=devops ansible_ssh_pass=jdokuans
+become: true
