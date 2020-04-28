@@ -1,8 +1,5 @@
 [qa]
-ip1
-ip2
+3.22.120.40 ansible_ssh_user=devops ansible_ssh_pass=jdokuans
 
 [prod]
-ip1
-ip2
-
+18.217.126.32 ansible_ssh_user=devops ansible_ssh_pass=jdokuans
